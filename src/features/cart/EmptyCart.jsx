@@ -1,4 +1,4 @@
-import LinkButton from '../../../final-1-after-tailwind/src/ui/LinkButton';
+import LinkButton from "./LinkButton";
 
 function EmptyCart() {
   return (
